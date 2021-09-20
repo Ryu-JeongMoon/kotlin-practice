@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/build/
+*.kts
+*.properties
+gradlew
+gradlew.bat
+*.idea
+*.gradle
