@@ -1,4 +1,4 @@
-package chap01
+package kkang.chap01
 
 data class User(val no: Int, val name: String, val email: String)
 

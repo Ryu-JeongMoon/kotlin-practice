@@ -1,4 +1,4 @@
-package chap01
+package kkang.chap01
 
 class HelloKotlin {
 }
