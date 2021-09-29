@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.function_lambda
 
 fun sum(x: Int, y: Int, calculate: (Int, Int) -> Int): Int {
     return calculate(x, y)

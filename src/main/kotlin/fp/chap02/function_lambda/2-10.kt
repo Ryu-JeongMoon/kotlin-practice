@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.function_lambda
 
 fun add10(x: Int = 10, y: Int = 3) = x + y
 

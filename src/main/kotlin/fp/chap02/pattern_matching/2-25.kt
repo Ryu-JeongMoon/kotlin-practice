@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.pattern_matching
 
 class User(var name: String, val age: Int = 55)
 

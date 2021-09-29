@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.function_lambda
 
 fun add1(x: Int, y: Int): Int {
     return x + y

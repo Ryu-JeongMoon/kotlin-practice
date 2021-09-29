@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.function_lambda
 
 fun twice1(value: Int): Int {
     return value * 2

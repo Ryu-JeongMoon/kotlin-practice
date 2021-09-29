@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.function_lambda
 
 fun add8(x: Int, y:Int = 3): Int = x+y
 

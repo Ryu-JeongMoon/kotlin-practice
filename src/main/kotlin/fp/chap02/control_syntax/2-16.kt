@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.control_syntax
 
 fun main(args: Array<String>) {
     val x = 5

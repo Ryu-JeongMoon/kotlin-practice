@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.function_lambda
 
 fun Int.product(value:Int): Int {
     return this * value

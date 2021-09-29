@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.interface_
 
 fun main(args: Array<String>) {
     val kotlin2 = Kotlin2()

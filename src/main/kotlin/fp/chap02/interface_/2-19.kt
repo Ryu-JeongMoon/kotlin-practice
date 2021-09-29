@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.interface_
 
 interface Foo {
     fun printFoo()

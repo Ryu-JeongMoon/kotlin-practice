@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.control_syntax
 
 import java.lang.Integer.parseInt
 

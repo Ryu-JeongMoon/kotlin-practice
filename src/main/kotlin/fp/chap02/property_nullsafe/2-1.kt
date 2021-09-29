@@ -1,4 +1,4 @@
-package fp.chap02
+package fp.chap02.property_nullsafe
 
 /*
  const val -> static constant, 기본값만 할당될 수 있고 컴파일 시점에 값이 결정된다
