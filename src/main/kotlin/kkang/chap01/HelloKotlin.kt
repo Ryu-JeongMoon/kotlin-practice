@@ -1,8 +1,7 @@
 package kkang.chap01
 
-class HelloKotlin {
-}
+class HelloKotlin
 
 fun main(args: Array<String>) {
-    print("Hello Kotlin!")
+  print("Hello Kotlin!")
 }
